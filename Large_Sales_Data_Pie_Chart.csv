@@ -1,0 +1,101 @@
+Category,Percentage,Sales (in thousands),Year,Region
+Books,43,397,2022,East
+Pharmacy,21,129,2022,West
+Sporting Goods,12,351,2021,East
+Electronics,5,204,2023,West
+Home Goods,7,36,2023,West
+Home Goods,5,172,2021,North
+Home Goods,48,433,2022,South
+Pharmacy,4,169,2022,South
+Apparel,13,130,2021,South
+Home Goods,37,45,2021,North
+Sporting Goods,41,484,2021,North
+Groceries,15,464,2023,West
+Books,16,397,2022,West
+Pharmacy,21,394,2023,South
+Toys,36,137,2022,West
+Electronics,24,465,2023,North
+Electronics,16,103,2021,West
+Books,14,181,2023,North
+Groceries,22,380,2021,South
+Apparel,49,436,2022,East
+Toys,6,248,2022,East
+Pharmacy,42,271,2022,North
+Pharmacy,36,141,2021,East
+Toys,1,346,2021,South
+Electronics,32,489,2021,West
+Apparel,6,307,2021,West
+Sporting Goods,31,33,2021,West
+Apparel,1,347,2021,South
+Sporting Goods,37,204,2022,East
+Electronics,35,172,2021,South
+Apparel,49,99,2023,East
+Books,30,61,2023,West
+Home Goods,4,294,2022,East
+Electronics,35,60,2022,South
+Home Goods,43,458,2022,East
+Sporting Goods,14,227,2023,West
+Toys,49,287,2022,West
+Pharmacy,40,186,2022,North
+Pharmacy,22,131,2021,North
+Electronics,10,369,2022,East
+Groceries,1,149,2023,South
+Home Goods,11,243,2022,West
+Electronics,44,394,2022,South
+Apparel,24,320,2021,East
+Home Goods,3,236,2021,East
+Sporting Goods,35,401,2022,South
+Home Goods,36,44,2022,North
+Home Goods,31,87,2023,East
+Toys,4,486,2022,West
+Pharmacy,19,279,2023,North
+Electronics,47,254,2023,East
+Apparel,36,224,2022,North
+Apparel,21,311,2023,West
+Apparel,18,234,2023,East
+Pharmacy,28,209,2021,South
+Electronics,15,217,2022,East
+Pharmacy,42,235,2022,South
+Groceries,2,63,2022,North
+Books,37,52,2023,South
+Pharmacy,11,31,2022,South
+Home Goods,23,124,2022,East
+Toys,44,232,2022,East
+Home Goods,41,158,2023,West
+Groceries,12,202,2021,North
+Pharmacy,3,441,2022,South
+Books,17,145,2021,North
+Groceries,33,176,2022,West
+Electronics,1,131,2022,North
+Electronics,39,278,2023,North
+Books,20,47,2021,East
+Sporting Goods,47,487,2023,North
+Sporting Goods,43,237,2021,West
+Toys,41,171,2023,South
+Electronics,14,329,2021,North
+Books,31,327,2023,West
+Apparel,25,194,2021,East
+Pharmacy,3,168,2021,South
+Books,4,457,2021,West
+Apparel,31,49,2021,North
+Groceries,35,87,2022,South
+Groceries,44,55,2023,East
+Pharmacy,14,315,2021,North
+Electronics,49,413,2021,North
+Apparel,41,93,2022,North
+Apparel,9,317,2023,East
+Pharmacy,20,427,2022,South
+Apparel,32,407,2021,West
+Apparel,9,322,2021,North
+Home Goods,27,238,2021,North
+Toys,3,454,2021,North
+Pharmacy,4,384,2021,North
+Home Goods,45,279,2022,South
+Toys,15,307,2021,West
+Groceries,33,285,2023,East
+Home Goods,5,414,2023,East
+Electronics,4,47,2023,South
+Toys,46,449,2021,North
+Home Goods,12,219,2021,South
+Sporting Goods,23,443,2023,South
+Books,14,81,2021,South
